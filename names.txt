@@ -1,3 +1,4 @@
 role,NetID,LastName,FirstName
 boss,lyu262,Yu,Lanxin
 employee,yli2662,Li,Yunqing
+employee,sli2432,Li,Shanyao
